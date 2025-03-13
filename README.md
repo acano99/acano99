@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**Sobre mi**
+- Desarrollador movil
+
+**Tecnologias**
+- Dart/Flutter
+- Kotlin/Jetpack Compose
+- Kotlin Multiplataforma/Compose Multiplataforma
 <!--
 **acano99/acano99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
