@@ -8,7 +8,8 @@
 - Kotlin/Jetpack Compose
 - Kotlin Multiplataforma/Compose Multiplataforma
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acano99&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acano99&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acano99&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acano99&layout=compact)
 <!--
 **acano99/acano99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
