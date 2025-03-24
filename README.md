@@ -24,8 +24,8 @@ Soy un **Desarrollador Móvil** apasionado por crear aplicaciones intuitivas, ef
 
 <div align="center">
   <a href="https://github.com/acano99">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=acano99&show_icons=true&theme=dracula&hide_border=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acano99&layout=compact&theme=dracula&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=acano99&show_icons=true&theme=dracula&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acano99&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </div>
 
